@@ -12,30 +12,33 @@
   "scripts": {
     "knex": "knex",
     "start": "node server",
+    "watch": "nodemon server",
     "test": "lab -a code -I '__core-js_shared__' -L",
     "lint": "eslint ."
   },
   "dependencies": {
     "boom": "7.x.x",
+    "chance": "~1.0.16",
+    "confidence": "3.x.x",
+    "dotenv": "6.x.x",
+    "glue": "5.x.x",
+    "hapi": "17.x.x",
     "haute-couture": "3.x.x",
+    "hoek": "5.x.x",
+    "hpal-debug": "1.x.x",
     "joi": "13.x.x",
+    "knex": "0.15.x",
+    "mysql": "~2.16.0",
+    "nodemon": "~1.18.4",
     "objection": "1.x.x",
-    "schwifty": "4.x.x"
+    "schwifty": "4.x.x",
+    "toys": "2.x.x"
   },
   "devDependencies": {
     "eslint-plugin-hapi": "4.x.x",
     "code": "5.x.x",
-    "dotenv": "6.x.x",
     "eslint": "5.x.x",
     "eslint-config-hapi": "12.x.x",
-    "confidence": "3.x.x",
-    "glue": "5.x.x",
-    "hapi": "17.x.x",
-    "hoek": "5.x.x",
-    "hpal-debug": "1.x.x",
-    "knex": "0.15.x",
-    "lab": "16.x.x",
-    "sqlite3": "4.x.x",
-    "toys": "2.x.x"
+    "lab": "16.x.x"
   }
 }
