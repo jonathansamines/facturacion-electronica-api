@@ -1,0 +1,14 @@
+[
+  {
+      "descripcion":"General",
+      "id_afiliacion_iva":"GEN"
+  },
+  {
+      "descripcion":"Pequeño Contribuyente",
+      "id_afiliacion_iva":"PEQ"
+  },
+  {
+      "descripcion":"Excento",
+      "id_afiliacion_iva":"EXE"
+  }
+]

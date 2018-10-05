@@ -18,9 +18,9 @@
   },
   "dependencies": {
     "boom": "7.x.x",
-    "chance": "~1.0.16",
     "confidence": "3.x.x",
     "dotenv": "6.x.x",
+    "felicity": "~3.0.0",
     "glue": "5.x.x",
     "hapi": "17.x.x",
     "haute-couture": "3.x.x",

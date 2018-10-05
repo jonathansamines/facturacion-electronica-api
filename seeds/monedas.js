@@ -1,6 +1,5 @@
 'use strict';
 
-
 exports.seed = async (knex, Promise) => {
 
     await knex('moneda').del();
@@ -8,11 +7,11 @@ exports.seed = async (knex, Promise) => {
     return knex('moneda').insert([
         {
             descripcion: 'Dólar Estadounidense',
-            codigo: 'USD'
+            id_moneda: 'USD'
         },
         {
             descripcion: 'Quetzal Guatemalteco',
-            codigo: 'GTQ'
+            id_moneda: 'GTQ'
         }
     ]);
 };

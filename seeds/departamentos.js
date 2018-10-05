@@ -6,91 +6,91 @@ exports.seed = async (knex, Promise) => {
 
     return knex('departamento').insert([
         {
-            'codigo':'GT-GU',
+            'id_departamento':'GT-GU',
             'descripcion':'Guatemala'
         },
         {
-            'codigo':'GT-PR',
+            'id_departamento':'GT-PR',
             'descripcion':'El Progreso'
         },
         {
-            'codigo':'GT-SA',
+            'id_departamento':'GT-SA',
             'descripcion':'Sacatepéquez'
         },
         {
-            'codigo':'GT-CM',
+            'id_departamento':'GT-CM',
             'descripcion':'Chimaltenango'
         },
         {
-            'codigo':'GT-ES',
+            'id_departamento':'GT-ES',
             'descripcion':'Escuintla'
         },
         {
-            'codigo':'GT-SR',
+            'id_departamento':'GT-SR',
             'descripcion':'Santa Rosa'
         },
         {
-            'codigo':'GT-SO',
+            'id_departamento':'GT-SO',
             'descripcion':'Sololá'
         },
         {
-            'codigo':'GT-TO',
+            'id_departamento':'GT-TO',
             'descripcion':'Totonicapán'
         },
         {
-            'codigo':'GT-QZ',
+            'id_departamento':'GT-QZ',
             'descripcion':'Quetzaltenango'
         },
         {
-            'codigo':'GT-SU',
+            'id_departamento':'GT-SU',
             'descripcion':'Suchitepéquez'
         },
         {
-            'codigo':'GT-RE',
+            'id_departamento':'GT-RE',
             'descripcion':'Retalhuleu'
         },
         {
-            'codigo':'GT-SM',
+            'id_departamento':'GT-SM',
             'descripcion':'San Marcos'
         },
         {
-            'codigo':'GT-HU',
+            'id_departamento':'GT-HU',
             'descripcion':'Huehuetenango'
         },
         {
-            'codigo':'GT-QC',
+            'id_departamento':'GT-QC',
             'descripcion':'Quiché'
         },
         {
-            'codigo':'GT-BV',
+            'id_departamento':'GT-BV',
             'descripcion':'Baja Verapaz'
         },
         {
-            'codigo':'GT-AV',
+            'id_departamento':'GT-AV',
             'descripcion':'Alta Verapaz'
         },
         {
-            'codigo':'GT-PE',
+            'id_departamento':'GT-PE',
             'descripcion':'Petén'
         },
         {
-            'codigo':'GT-IZ',
+            'id_departamento':'GT-IZ',
             'descripcion':'Izabal'
         },
         {
-            'codigo':'GT-ZA',
+            'id_departamento':'GT-ZA',
             'descripcion':'Zacapa'
         },
         {
-            'codigo':'GT-CQ',
+            'id_departamento':'GT-CQ',
             'descripcion':'Chiquimula'
         },
         {
-            'codigo':'GT-JA',
+            'id_departamento':'GT-JA',
             'descripcion':'Jalapa'
         },
         {
-            'codigo':'GT-JU',
+            'id_departamento':'GT-JU',
             'descripcion':'Jutiapa'
         }
     ]);

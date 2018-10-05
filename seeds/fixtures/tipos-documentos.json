@@ -1,0 +1,42 @@
+[
+  {
+      "descripcion":"Factura",
+      "id_tipo_documento":"FACT"
+  },
+  {
+      "descripcion":"Factura Cambiaria",
+      "id_tipo_documento":"FCAM"
+  },
+  {
+      "descripcion":"Factura Pequeño Contribuyente",
+      "id_tipo_documento":"FPEQ"
+  },
+  {
+      "descripcion":"Factura Cambiaria Pequeño Contribuyente",
+      "id_tipo_documento":"FCAP"
+  },
+  {
+      "descripcion":"Factura Especial",
+      "id_tipo_documento":"FESP"
+  },
+  {
+      "descripcion":"Nota de Abono",
+      "id_tipo_documento":"NABN"
+  },
+  {
+      "descripcion":"Recibo por Donación",
+      "id_tipo_documento":"RDON"
+  },
+  {
+      "descripcion":"Recibo",
+      "id_tipo_documento":"RECI"
+  },
+  {
+      "descripcion":"Nota de Débito",
+      "id_tipo_documento":"NDEB"
+  },
+  {
+      "descripcion":"Nota de Crédito",
+      "id_tipo_documento":"NCRE"
+  }
+]
