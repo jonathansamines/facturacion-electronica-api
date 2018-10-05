@@ -1,0 +1,72 @@
+[
+  {
+    "descripcion": "Sujeto a pagos trimestrales ISR",
+    "id_tipo_frase": 1
+  },
+  {
+    "descripcion": "Sujeto a retención definitiva ISR",
+    "id_tipo_frase": 1
+  },
+  {
+    "descripcion": "Sujeto a pago directo ISR (número de resolución y fecha)",
+    "id_tipo_frase": 1
+  },
+  {
+    "descripcion": "Agente de Retención del IVA",
+    "id_tipo_frase": 2
+  },
+  {
+    "descripcion": "No genera derecho a crédito fiscal",
+    "id_tipo_frase": 3
+  },
+
+  {
+    "descripcion": "Exenta del IVA (art. 7 núm. 2 Ley del IVA)",
+    "id_tipo_frase": 4
+  },
+  {
+    "descripcion": "Exenta del IVA (art. 7 núm. 4 Ley del IVA)",
+    "id_tipo_frase": 4
+  },
+  {
+    "descripcion": "Exenta del IVA (art. 7 núm. 5 Ley del IVA)",
+    "id_tipo_frase": 4
+  },
+  {
+    "descripcion": "Exenta del IVA (art. 7 núm. 9 Ley del IVA)",
+    "id_tipo_frase": 4
+  },
+  {
+    "descripcion": "Exenta del IVA (art. 7 núm. 10 Ley del IVA)",
+    "id_tipo_frase": 4
+  },
+  {
+    "descripcion": "Exenta del IVA (art. 7 núm. 13 Ley del IVA)",
+    "id_tipo_frase": 4
+  },
+  {
+    "descripcion": "Exenta del IVA (art. 7 núm. 14 Ley del IVA)",
+    "id_tipo_frase": 4
+  },
+  {
+    "descripcion": "Exenta del IVA (art. 8 núm. 1 Ley del IVA)",
+    "id_tipo_frase": 4
+  },
+  {
+    "descripcion": "Exenta del IVA (art. 7 núm. 15 Ley del IVA)",
+    "id_tipo_frase": 4
+  },
+  {
+    "descripcion": "Esta factura no incluye IVA (art. 55 Ley del IVA)",
+    "id_tipo_frase": 4
+  },
+  {
+    "descripcion": "No afecta al IVA (Decreto 29-89 Ley de Maquila)",
+    "id_tipo_frase": 4
+  },
+  {
+    "descripcion": "No afecta al IVA (Decreto 65-89 Ley de Zonas Francas)",
+    "id_tipo_frase": 4
+  }
+]
+

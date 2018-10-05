@@ -2,16 +2,13 @@
 
 exports.seed = async (knex, Promise) => {
 
+    await knex('unidad_gravable_impuesto').del();
+    await knex('impuesto_tipo_documento').del();
     await knex('moneda').del();
+    await knex('impuesto').del();
 
-    return knex('moneda').insert([
-        {
-            descripcion: 'Dólar Estadounidense',
-            id_moneda: 'USD'
-        },
-        {
-            descripcion: 'Quetzal Guatemalteco',
-            id_moneda: 'GTQ'
-        }
-    ]);
+    await knex('impuesto').insert(require('./fixtures/impuestos'));
+    await knex('moneda').insert(require('./fixtures/monedas'));
+    await knex('unidad_gravable_impuesto').insert(require('./fixtures/unidad-gravable-impuesto'));
+    await knex('impuesto_tipo_documento').insert(require('./fixtures/impuesto-tipo-documento'));
 };

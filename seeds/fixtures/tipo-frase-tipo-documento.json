@@ -1,0 +1,38 @@
+[
+  {
+    "id_tipo_frase": 1,
+    "id_tipo_documento": "FACT"
+  },
+  {
+    "id_tipo_frase": 1,
+    "id_tipo_documento": "FCAM"
+  },
+  {
+    "id_tipo_frase": 2,
+    "id_tipo_documento": "FCAM"
+  },
+  {
+    "id_tipo_frase": 3,
+    "id_tipo_documento": "FPEQ"
+  },
+  {
+    "id_tipo_frase": 3,
+    "id_tipo_documento": "FCAP"
+  },
+  {
+    "id_tipo_frase": 4,
+    "id_tipo_documento": "FACT"
+  },
+  {
+    "id_tipo_frase": 4,
+    "id_tipo_documento": "FCAM"
+  },
+  {
+    "id_tipo_frase": 4,
+    "id_tipo_documento": "RDON"
+  },
+  {
+    "id_tipo_frase": 4,
+    "id_tipo_documento": "RECI"
+  }
+]

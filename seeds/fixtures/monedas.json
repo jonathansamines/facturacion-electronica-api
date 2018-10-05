@@ -1,0 +1,10 @@
+[
+  {
+      "descripcion":"Dólar Estadounidense",
+      "id_moneda":"USD"
+  },
+  {
+      "descripcion":"Quetzal Guatemalteco",
+      "id_moneda":"GTQ"
+  }
+]

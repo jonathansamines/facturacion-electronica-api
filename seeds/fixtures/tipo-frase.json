@@ -1,0 +1,18 @@
+[
+  {
+    "id_tipo_frase": 1,
+    "descripcion": "Frase de retención del ISR"
+  },
+  {
+    "id_tipo_frase": 2,
+    "descripcion": "Frase de retención del IVA"
+  },
+  {
+    "id_tipo_frase": 3,
+    "descripcion": "Frase de no genera derecho a crédito fiscal del IVA"
+  },
+  {
+    "id_tipo_frase": 4,
+    "descripcion": "Frase de exento o no afecto al IVA"
+  }
+]

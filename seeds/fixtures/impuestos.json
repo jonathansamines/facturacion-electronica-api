@@ -1,0 +1,58 @@
+[
+  {
+    "id_impuesto": 1,
+    "nombre": "Impuesto al Valor Agregado (IVA)",
+    "nombre_corto": "IVA",
+    "sigla": "IVA",
+    "sumar_total_dte": false,
+    "mostrar_receptor": true
+  },
+  {
+    "id_impuesto": 2,
+    "nombre": "Impuesto a la Distribución de Petróleo Crudo y Combustibles Derivados del Petróleo (IDP)",
+    "nombre_corto": "Petróleo",
+    "sigla": "IDP",
+    "sumar_total_dte": true,
+    "mostrar_receptor": true
+  },
+  {
+    "id_impuesto": 3,
+    "nombre": "Impuesto al Turismo",
+    "nombre_corto": "Turismo Hospedaje",
+    "sigla": "ITH",
+    "sumar_total_dte": true,
+    "mostrar_receptor": true
+  },
+  {
+    "id_impuesto": 4,
+    "nombre": "Impuesto al Turismo",
+    "nombre_corto": "Impuesto al Turismo",
+    "sigla": "ITP",
+    "sumar_total_dte": true,
+    "mostrar_receptor": true
+  },
+  {
+    "id_impuesto": 5,
+    "nombre": "Timbre de Prensa",
+    "nombre_corto": "Timbre de Prensa",
+    "sigla": "TDP",
+    "sumar_total_dte": true,
+    "mostrar_receptor": true
+  },
+  {
+    "id_impuesto": 6,
+    "nombre": "Impuesto a Favor del Cuerpo Voluntario de Bomberos de Guatemala",
+    "nombre_corto": "Bomberos",
+    "sigla": "IFB",
+    "sumar_total_dte": true,
+    "mostrar_receptor": true
+  },
+  {
+    "id_impuesto": 7,
+    "nombre": "Tasa Municipal",
+    "nombre_corto": "Tasa Municipal",
+    "sigla": "MUN",
+    "sumar_total_dte": true,
+    "mostrar_receptor": true
+  }
+]
