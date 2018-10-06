@@ -32,6 +32,38 @@
       "id_tipo_documento":"NCRE"
   },
   {
+    "id_afiliacion_iva":"EXE",
+    "id_tipo_documento":"FACT"
+  },
+  {
+      "id_afiliacion_iva":"EXE",
+      "id_tipo_documento":"FCAM"
+  },
+  {
+      "id_afiliacion_iva":"EXE",
+      "id_tipo_documento":"FESP"
+  },
+  {
+      "id_afiliacion_iva":"EXE",
+      "id_tipo_documento":"NABN"
+  },
+  {
+      "id_afiliacion_iva":"EXE",
+      "id_tipo_documento":"RDON"
+  },
+  {
+      "id_afiliacion_iva":"EXE",
+      "id_tipo_documento":"RECI"
+  },
+  {
+      "id_afiliacion_iva":"EXE",
+      "id_tipo_documento":"NDEB"
+  },
+  {
+      "id_afiliacion_iva":"EXE",
+      "id_tipo_documento":"NCRE"
+  },
+  {
       "id_afiliacion_iva":"PEQ",
       "id_tipo_documento":"FPEQ"
   },
