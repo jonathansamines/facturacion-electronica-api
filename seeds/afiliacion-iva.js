@@ -3,7 +3,7 @@
 exports.seed = async (knex, Promise) => {
 
 
-    await knex('unidad_gravable_impuesto').del();
+    await knex('unidad_gravable').del();
     await knex('impuesto_tipo_documento').del();
     await knex('tipo_frase_tipo_documento').del();
     await knex('afiliacion_iva_tipo_documento').del();
@@ -22,6 +22,6 @@ exports.seed = async (knex, Promise) => {
     await knex('tipo_frase_tipo_documento').insert(require('./fixtures/tipo-frase-tipo-documento'));
     await knex('impuesto').insert(require('./fixtures/impuestos'));
     await knex('moneda').insert(require('./fixtures/monedas'));
-    await knex('unidad_gravable_impuesto').insert(require('./fixtures/unidad-gravable-impuesto'));
+    await knex('unidad_gravable').insert(require('./fixtures/unidad-gravable'));
     await knex('impuesto_tipo_documento').insert(require('./fixtures/impuesto-tipo-documento'));
 };

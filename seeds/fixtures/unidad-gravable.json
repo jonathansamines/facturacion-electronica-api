@@ -1,5 +1,6 @@
 [
   {
+    "id_unidad_gravable": 1,
     "nombre": "Tasa 12.00%",
     "nombre_corto": "IVA 12%",
     "tipo_valor": "PORCENTAJE",
@@ -8,6 +9,7 @@
     "id_moneda": "GTQ"
   },
   {
+    "id_unidad_gravable": 2,
     "nombre": "Tasa 0 (Cero)",
     "nombre_corto": "IVA 0",
     "tipo_valor": "PORCENTAJE",
@@ -16,6 +18,7 @@
     "id_moneda": "GTQ"
   },
   {
+    "id_unidad_gravable": 1,
     "nombre": "Gasolina superior",
     "nombre_corto": "Gasolina superior Q4.70",
     "tipo_valor": "FIJO",
@@ -24,6 +27,7 @@
     "id_moneda": "GTQ"
   },
   {
+    "id_unidad_gravable": 2,
     "nombre": "Gasolina regular",
     "nombre_corto": "Gasolina regular Q4.60",
     "tipo_valor": "FIJO",
@@ -32,6 +36,7 @@
     "id_moneda": "GTQ"
   },
   {
+    "id_unidad_gravable": 3,
     "nombre": "Gasolina de aviación",
     "nombre_corto": "Gasolina de aviación Q4.70",
     "tipo_valor": "FIJO",
@@ -40,6 +45,7 @@
     "id_moneda": "GTQ"
   },
   {
+    "id_unidad_gravable": 4,
     "nombre": "Diésel",
     "nombre_corto": "Diésel Q1.30",
     "tipo_valor": "FIJO",
@@ -48,6 +54,7 @@
     "id_moneda": "GTQ"
   },
   {
+    "id_unidad_gravable": 5,
     "nombre": "Gas Oil",
     "nombre_corto": "Gas Oil Q1.30",
     "tipo_valor": "FIJO",
@@ -56,6 +63,7 @@
     "id_moneda": "GTQ"
   },
   {
+    "id_unidad_gravable": 6,
     "nombre": "Kerosina (DPK), (Avjet, turbo fuel)",
     "nombre_corto": "Kerosina avjet turbo fuel Q0.50",
     "tipo_valor": "FIJO",
@@ -64,6 +72,7 @@
     "id_moneda": "GTQ"
   },
   {
+    "id_unidad_gravable": 7,
     "nombre": "Nafta",
     "nombre_corto": "Nafta Q0.50",
     "tipo_valor": "FIJO",
@@ -72,6 +81,7 @@
     "id_moneda": "GTQ"
   },
   {
+    "id_unidad_gravable": 8,
     "nombre": "Fuel Oil (Bunker C)",
     "nombre_corto": "Fuel Oil (Bunker C) Q0.00",
     "tipo_valor": "FIJO",
@@ -80,6 +90,7 @@
     "id_moneda": "GTQ"
   },
   {
+    "id_unidad_gravable": 9,
     "nombre": "Gas licuado de petróleo a granel",
     "nombre_corto": "Gas licuado granel Q0.50",
     "tipo_valor": "FIJO",
@@ -88,6 +99,7 @@
     "id_moneda": "GTQ"
   },
   {
+    "id_unidad_gravable": 10,
     "nombre": "Gas licuado petróleo carburación",
     "nombre_corto": "Gas licuado carburación Q0.50",
     "tipo_valor": "FIJO",
@@ -96,6 +108,7 @@
     "id_moneda": "GTQ"
   },
   {
+    "id_unidad_gravable": 11,
     "nombre": "Petróleo crudo usado como combustible",
     "nombre_corto": "Petróleo crudo combustible Q0.00",
     "tipo_valor": "FIJO",
@@ -104,6 +117,7 @@
     "id_moneda": "GTQ"
   },
   {
+    "id_unidad_gravable": 12,
     "nombre": "Otros combustibles derivados del petróleo",
     "nombre_corto": "Otros combustibles Q0.00",
     "tipo_valor": "FIJO",
@@ -112,6 +126,7 @@
     "id_moneda": "GTQ"
   },
   {
+    "id_unidad_gravable": 13,
     "nombre": "Asfaltos",
     "nombre_corto": "Asfaltos Q0.00",
     "tipo_valor": "FIJO",
@@ -120,6 +135,7 @@
     "id_moneda": "GTQ"
   },
   {
+    "id_unidad_gravable": 1,
     "nombre": "Tasa Hospedaje 10%",
     "nombre_corto": "Hospedaje 10.00%",
     "tipo_valor": "PORCENTAJE",
@@ -128,6 +144,7 @@
     "id_moneda": "GTQ"
   },
   {
+    "id_unidad_gravable": 1,
     "nombre": "Salida del país por vía aérea",
     "nombre_corto": "Aérea USD30.00",
     "tipo_valor": "FIJO",
@@ -136,6 +153,7 @@
     "id_moneda": "USD"
   },
   {
+    "id_unidad_gravable": 2,
     "nombre": "Salida del país por vía marítima",
     "nombre_corto": "Marítima USD10.00",
     "tipo_valor": "FIJO",
@@ -144,6 +162,7 @@
     "id_moneda": "USD"
   },
   {
+    "id_unidad_gravable": 1,
     "nombre": "Timbre de prensa cinco (5) por millar",
     "nombre_corto": "Timbre de prensa",
     "tipo_valor": "PORCENTAJE",
@@ -152,6 +171,7 @@
     "id_moneda": "GTQ"
   },
   {
+    "id_unidad_gravable": 1,
     "nombre": "Impuesto por seguro contra incendios",
     "nombre_corto": "Bomberos 2.00%",
     "tipo_valor": "PORCENTAJE",
