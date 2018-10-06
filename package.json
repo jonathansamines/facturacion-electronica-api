@@ -29,10 +29,12 @@
     "hpal-debug": "1.x.x",
     "joi": "13.x.x",
     "knex": "0.15.x",
+    "lodash": "~4.17.11",
     "mysql": "~2.16.0",
     "nodemon": "~1.18.4",
     "objection": "1.x.x",
     "schwifty": "4.x.x",
+    "soap": "~0.25.0",
     "toys": "2.x.x"
   },
   "devDependencies": {
