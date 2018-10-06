@@ -1,42 +1,52 @@
 [
   {
       "descripcion":"Factura",
-      "id_tipo_documento":"FACT"
+      "id_tipo_documento":"FACT",
+      "exportacion": true
   },
   {
       "descripcion":"Factura Cambiaria",
-      "id_tipo_documento":"FCAM"
+      "id_tipo_documento":"FCAM",
+      "exportacion": true
   },
   {
       "descripcion":"Factura Pequeño Contribuyente",
-      "id_tipo_documento":"FPEQ"
+      "id_tipo_documento":"FPEQ",
+      "exportacion": true
   },
   {
       "descripcion":"Factura Cambiaria Pequeño Contribuyente",
-      "id_tipo_documento":"FCAP"
+      "id_tipo_documento":"FCAP",
+      "exportacion": true
   },
   {
       "descripcion":"Factura Especial",
-      "id_tipo_documento":"FESP"
+      "id_tipo_documento":"FESP",
+      "exportacion": false
   },
   {
       "descripcion":"Nota de Abono",
-      "id_tipo_documento":"NABN"
+      "id_tipo_documento":"NABN",
+      "exportacion": false
   },
   {
       "descripcion":"Recibo por Donación",
-      "id_tipo_documento":"RDON"
+      "id_tipo_documento":"RDON",
+      "exportacion": false
   },
   {
       "descripcion":"Recibo",
-      "id_tipo_documento":"RECI"
+      "id_tipo_documento":"RECI",
+      "exportacion": false
   },
   {
       "descripcion":"Nota de Débito",
-      "id_tipo_documento":"NDEB"
+      "id_tipo_documento":"NDEB",
+      "exportacion": false
   },
   {
       "descripcion":"Nota de Crédito",
-      "id_tipo_documento":"NCRE"
+      "id_tipo_documento":"NCRE",
+      "exportacion": false
   }
 ]
