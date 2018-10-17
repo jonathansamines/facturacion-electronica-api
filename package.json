@@ -19,6 +19,7 @@
   "dependencies": {
     "bcryptjs": "~2.4.3",
     "boom": "7.x.x",
+    "catbox-redis": "~4.2.3",
     "confidence": "3.x.x",
     "dotenv": "6.x.x",
     "felicity": "~3.0.0",
