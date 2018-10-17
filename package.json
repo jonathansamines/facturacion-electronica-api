@@ -42,7 +42,6 @@
     "uuid": "~3.3.2"
   },
   "devDependencies": {
-    "catbox-memory": "~3.1.2",
     "code": "5.x.x",
     "eslint": "5.x.x",
     "eslint-config-hapi": "12.x.x",
