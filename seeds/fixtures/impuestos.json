@@ -10,7 +10,7 @@
   {
     "id_impuesto": 2,
     "nombre": "Impuesto a la Distribución de Petróleo Crudo y Combustibles Derivados del Petróleo (IDP)",
-    "nombre_corto": "Petróleo",
+    "nombre_corto": "Petroleo",
     "sigla": "IDP",
     "sumar_total_dte": true,
     "mostrar_receptor": true

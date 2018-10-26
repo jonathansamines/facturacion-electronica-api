@@ -1,0 +1,130 @@
+[
+  {
+    "id_tipo_producto": 1,
+    "descripcion": "Abarrotes"
+  },
+  {
+    "id_tipo_producto": 2,
+    "descripcion": "Boletos de Transporte"
+  },
+  {
+    "id_tipo_producto": 3,
+    "descripcion": "Comida"
+  },
+  {
+    "id_tipo_producto": 4,
+    "descripcion": "Compra de Inmueble"
+  },
+  {
+    "id_tipo_producto": 5,
+    "descripcion": "Diesel y Gas Oil"
+  },
+  {
+    "id_tipo_producto": 6,
+    "descripcion": "Energía Eléctrica"
+  },
+  {
+    "id_tipo_producto": 7,
+    "descripcion": "Electrodomésticos"
+  },
+  {
+    "id_tipo_producto": 8,
+    "descripcion": "Ferreteria"
+  },
+  {
+    "id_tipo_producto": 9,
+    "descripcion": "Gas licuado de petróleo"
+  },
+  {
+    "id_tipo_producto": 10,
+    "descripcion": "Floristería"
+  },
+  {
+    "id_tipo_producto": 11,
+    "descripcion": "Gasolina de Aviación"
+  },
+  {
+    "id_tipo_producto": 12,
+    "descripcion": "Gasolina Regular"
+  },
+  {
+    "id_tipo_producto": 13,
+    "descripcion": "Gasolina Superior"
+  },
+  {
+    "id_tipo_producto": 14,
+    "descripcion": "Gastos Médicos"
+  },
+  {
+    "id_tipo_producto": 15,
+    "descripcion": "Hospedaje"
+  },
+  {
+    "id_tipo_producto": 16,
+    "descripcion": "Importación de Bienes Varios"
+  },
+  {
+    "id_tipo_producto": 17,
+    "descripcion": "Juguetería"
+  },
+  {
+    "id_tipo_producto": 18,
+    "descripcion": "Kerosina (DPK)"
+  },
+  {
+    "id_tipo_producto": 19,
+    "descripcion": "Kerosina motores reacción"
+  },
+  {
+    "id_tipo_producto": 20,
+    "descripcion": "Medicamentos"
+  },
+  {
+    "id_tipo_producto": 21,
+    "descripcion": "Mueblería"
+  },
+  {
+    "id_tipo_producto": 22,
+    "descripcion": "Música y Video"
+  },
+  {
+    "id_tipo_producto": 23,
+    "descripcion": "Nafta"
+  },
+  {
+    "id_tipo_producto": 24,
+    "descripcion": "Renta de Vivienda"
+  },
+  {
+    "id_tipo_producto": 25,
+    "descripcion": "Repuestos y Accesorios"
+  },
+  {
+    "id_tipo_producto": 26,
+    "descripcion": "Ropa y Accesorios"
+  },
+  {
+    "id_tipo_producto": 27,
+    "descripcion": "Seguro Médico"
+  },
+  {
+    "id_tipo_producto": 28,
+    "descripcion": "Traspaso de Vehículos"
+  },
+  {
+    "id_tipo_producto": 29,
+    "descripcion": "Zapateria"
+  },
+  {
+    "id_tipo_producto": 30,
+    "descripcion": "Timbre de prensa"
+  },
+  {
+    "id_tipo_producto": 31,
+    "descripcion": "Bomberos Voluntarios"
+  },
+  {
+    "id_tipo_producto": 32,
+    "descripcion": "Tasa Municipal"
+  }
+]
