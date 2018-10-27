@@ -1,130 +1,162 @@
 [
   {
     "id_tipo_producto": 1,
-    "descripcion": "Abarrotes"
+    "descripcion": "Abarrotes",
+    "categoria": "B"
   },
   {
     "id_tipo_producto": 2,
-    "descripcion": "Boletos de Transporte"
+    "descripcion": "Boletos de Transporte",
+    "categoria": "S"
   },
   {
     "id_tipo_producto": 3,
-    "descripcion": "Comida"
+    "descripcion": "Comida",
+    "categoria": "B"
   },
   {
     "id_tipo_producto": 4,
-    "descripcion": "Compra de Inmueble"
+    "descripcion": "Compra de Inmueble",
+    "categoria": "B"
   },
   {
     "id_tipo_producto": 5,
-    "descripcion": "Diesel y Gas Oil"
+    "descripcion": "Diesel y Gas Oil",
+    "categoria": "B"
   },
   {
     "id_tipo_producto": 6,
-    "descripcion": "Energía Eléctrica"
+    "descripcion": "Energía Eléctrica",
+    "categoria": "S"
   },
   {
     "id_tipo_producto": 7,
-    "descripcion": "Electrodomésticos"
+    "descripcion": "Electrodomésticos",
+    "categoria": "B"
   },
   {
     "id_tipo_producto": 8,
-    "descripcion": "Ferreteria"
+    "descripcion": "Ferreteria",
+    "categoria": "B"
   },
   {
     "id_tipo_producto": 9,
-    "descripcion": "Gas licuado de petróleo"
+    "descripcion": "Gas licuado de petróleo",
+    "categoria": "B"
   },
   {
     "id_tipo_producto": 10,
-    "descripcion": "Floristería"
+    "descripcion": "Floristería",
+    "categoria": "B"
   },
   {
     "id_tipo_producto": 11,
-    "descripcion": "Gasolina de Aviación"
+    "descripcion": "Gasolina de Aviación",
+    "categoria": "B"
   },
   {
     "id_tipo_producto": 12,
-    "descripcion": "Gasolina Regular"
+    "descripcion": "Gasolina Regular",
+    "categoria": "B"
   },
   {
     "id_tipo_producto": 13,
-    "descripcion": "Gasolina Superior"
+    "descripcion": "Gasolina Superior",
+    "categoria": "B"
   },
   {
     "id_tipo_producto": 14,
-    "descripcion": "Gastos Médicos"
+    "descripcion": "Gastos Médicos",
+    "categoria": "S"
   },
   {
     "id_tipo_producto": 15,
-    "descripcion": "Hospedaje"
+    "descripcion": "Hospedaje",
+    "categoria": "S"
   },
   {
     "id_tipo_producto": 16,
-    "descripcion": "Importación de Bienes Varios"
+    "descripcion": "Importación de Bienes Varios",
+    "categoria": "B"
   },
   {
     "id_tipo_producto": 17,
-    "descripcion": "Juguetería"
+    "descripcion": "Juguetería",
+    "categoria": "B"
   },
   {
     "id_tipo_producto": 18,
-    "descripcion": "Kerosina (DPK)"
+    "descripcion": "Kerosina (DPK)",
+    "categoria": "B"
   },
   {
     "id_tipo_producto": 19,
-    "descripcion": "Kerosina motores reacción"
+    "descripcion": "Kerosina motores reacción",
+    "categoria": "B"
   },
   {
     "id_tipo_producto": 20,
-    "descripcion": "Medicamentos"
+    "descripcion": "Medicamentos",
+    "categoria": "B"
   },
   {
     "id_tipo_producto": 21,
-    "descripcion": "Mueblería"
+    "descripcion": "Mueblería",
+    "categoria": "B"
   },
   {
     "id_tipo_producto": 22,
-    "descripcion": "Música y Video"
+    "descripcion": "Música y Video",
+    "categoria": "B"
   },
   {
     "id_tipo_producto": 23,
-    "descripcion": "Nafta"
+    "descripcion": "Nafta",
+    "categoria": "B"
   },
   {
     "id_tipo_producto": 24,
-    "descripcion": "Renta de Vivienda"
+    "descripcion": "Renta de Vivienda",
+    "categoria": "S"
   },
   {
     "id_tipo_producto": 25,
-    "descripcion": "Repuestos y Accesorios"
+    "descripcion": "Repuestos y Accesorios",
+    "categoria": "B"
   },
   {
     "id_tipo_producto": 26,
-    "descripcion": "Ropa y Accesorios"
+    "descripcion": "Ropa y Accesorios",
+    "categoria": "B"
   },
   {
     "id_tipo_producto": 27,
-    "descripcion": "Seguro Médico"
+    "descripcion": "Seguro Médico",
+    "categoria": "S"
   },
   {
     "id_tipo_producto": 28,
-    "descripcion": "Traspaso de Vehículos"
+    "descripcion": "Traspaso de Vehículos",
+    "categoria": "B"
   },
   {
     "id_tipo_producto": 29,
-    "descripcion": "Zapateria"
+    "descripcion": "Zapateria",
+    "categoria": "B"
   },
   {
     "id_tipo_producto": 30,
-    "descripcion": "Timbre de prensa"
+    "descripcion": "Timbre de prensa",
+    "categoria": "S"
   },
   {
     "id_tipo_producto": 31,
-    "descripcion": "Bomberos Voluntarios"
+    "descripcion": "Bomberos Voluntarios",
+    "categoria": "S"
   },
   {
     "id_tipo_producto": 32,
-    "descripcion": "Tasa Municipal"
+    "descripcion": "Tasa Municipal",
+    "categoria": "B"
   }
 ]
