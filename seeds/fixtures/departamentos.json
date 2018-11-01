@@ -1,90 +1,112 @@
 [
   {
       "id_departamento":"GT-GU",
-      "descripcion":"Guatemala"
+      "descripcion":"Guatemala",
+      "id_pais": "GT"
   },
   {
       "id_departamento":"GT-PR",
-      "descripcion":"El Progreso"
+      "descripcion":"El Progreso",
+      "id_pais": "GT"
   },
   {
       "id_departamento":"GT-SA",
-      "descripcion":"Sacatepéquez"
+      "descripcion":"Sacatepéquez",
+      "id_pais": "GT"
   },
   {
       "id_departamento":"GT-CM",
-      "descripcion":"Chimaltenango"
+      "descripcion":"Chimaltenango",
+      "id_pais": "GT"
   },
   {
       "id_departamento":"GT-ES",
-      "descripcion":"Escuintla"
+      "descripcion":"Escuintla",
+      "id_pais": "GT"
   },
   {
       "id_departamento":"GT-SR",
-      "descripcion":"Santa Rosa"
+      "descripcion":"Santa Rosa",
+      "id_pais": "GT"
   },
   {
       "id_departamento":"GT-SO",
-      "descripcion":"Sololá"
+      "descripcion":"Sololá",
+      "id_pais": "GT"
   },
   {
       "id_departamento":"GT-TO",
-      "descripcion":"Totonicapán"
+      "descripcion":"Totonicapán",
+      "id_pais": "GT"
   },
   {
       "id_departamento":"GT-QZ",
-      "descripcion":"Quetzaltenango"
+      "descripcion":"Quetzaltenango",
+      "id_pais": "GT"
   },
   {
       "id_departamento":"GT-SU",
-      "descripcion":"Suchitepéquez"
+      "descripcion":"Suchitepéquez",
+      "id_pais": "GT"
   },
   {
       "id_departamento":"GT-RE",
-      "descripcion":"Retalhuleu"
+      "descripcion":"Retalhuleu",
+      "id_pais": "GT"
   },
   {
       "id_departamento":"GT-SM",
-      "descripcion":"San Marcos"
+      "descripcion":"San Marcos",
+      "id_pais": "GT"
   },
   {
       "id_departamento":"GT-HU",
-      "descripcion":"Huehuetenango"
+      "descripcion":"Huehuetenango",
+      "id_pais": "GT"
   },
   {
       "id_departamento":"GT-QC",
-      "descripcion":"Quiché"
+      "descripcion":"Quiché",
+      "id_pais": "GT"
   },
   {
       "id_departamento":"GT-BV",
-      "descripcion":"Baja Verapaz"
+      "descripcion":"Baja Verapaz",
+      "id_pais": "GT"
   },
   {
       "id_departamento":"GT-AV",
-      "descripcion":"Alta Verapaz"
+      "descripcion":"Alta Verapaz",
+      "id_pais": "GT"
   },
   {
       "id_departamento":"GT-PE",
-      "descripcion":"Petén"
+      "descripcion":"Petén",
+      "id_pais": "GT"
   },
   {
       "id_departamento":"GT-IZ",
-      "descripcion":"Izabal"
+      "descripcion":"Izabal",
+      "id_pais": "GT"
   },
   {
       "id_departamento":"GT-ZA",
-      "descripcion":"Zacapa"
+      "descripcion":"Zacapa",
+      "id_pais": "GT"
   },
   {
       "id_departamento":"GT-CQ",
-      "descripcion":"Chiquimula"
+      "descripcion":"Chiquimula",
+      "id_pais": "GT"
   },
   {
       "id_departamento":"GT-JA",
-      "descripcion":"Jalapa"
+      "descripcion":"Jalapa",
+      "id_pais": "GT"
   },
   {
       "id_departamento":"GT-JU",
-      "descripcion":"Jutiapa"
+      "descripcion":"Jutiapa",
+      "id_pais": "GT"
   }
 ]

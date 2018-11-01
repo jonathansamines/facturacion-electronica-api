@@ -21,6 +21,7 @@
     "boom": "7.x.x",
     "catbox-redis": "~4.2.3",
     "confidence": "3.x.x",
+    "date-fns": "~1.29.0",
     "dotenv": "6.x.x",
     "felicity": "~3.0.0",
     "glue": "5.x.x",
@@ -40,7 +41,8 @@
     "schwifty": "4.x.x",
     "soap": "~0.25.0",
     "toys": "2.x.x",
-    "uuid": "~3.3.2"
+    "uuid": "~3.3.2",
+    "xmlbuilder": "~10.1.1"
   },
   "devDependencies": {
     "code": "5.x.x",
