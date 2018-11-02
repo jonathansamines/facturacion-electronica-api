@@ -1,0 +1,47 @@
+[
+  {
+    "id_complemento": 1,
+    "id_tipo_documento": "FACT",
+    "requerido": false
+  },
+  {
+    "id_complemento": 1,
+    "id_tipo_documento": "FCAM",
+    "requerido": false
+  },
+  {
+    "id_complemento": 1,
+    "id_tipo_documento": "FPEQ",
+    "requerido": false
+  },
+  {
+    "id_complemento": 1,
+    "id_tipo_documento": "FCAP",
+    "requerido": false
+  },
+  {
+    "id_complemento": 2,
+    "id_tipo_documento": "FESP",
+    "requerido": true
+  },
+  {
+    "id_complemento": 3,
+    "id_tipo_documento": "FCAM",
+    "requerido": true
+  },
+  {
+    "id_complemento": 3,
+    "id_tipo_documento": "FCAP",
+    "requerido": true
+  },
+  {
+    "id_complemento": 4,
+    "id_tipo_documento": "NDEB",
+    "requerido": true
+  },
+  {
+    "id_complemento": 4,
+    "id_tipo_documento": "NCRE",
+    "requerido": true
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id_complemento": 1,
+    "descripcion": "Exportacion"
+  },
+  {
+    "id_complemento": 2,
+    "descripcion": "Retenciones de Factura Especial"
+  },
+  {
+    "id_complemento": 3,
+    "descripcion": "Abonos de Factura Cambiaria"
+  },
+  {
+    "id_complemento": 4,
+    "descripcion": "Referencias de Nota de Crédito y Débito"
+  }
+]

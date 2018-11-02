@@ -1,0 +1,50 @@
+[
+  {
+    "id_condicion_entrega": "EXW",
+    "designacion": "En fábrica"
+  },
+  {
+    "id_condicion_entrega": "FCA",
+    "designacion": "Libre transportista"
+  },
+  {
+    "id_condicion_entrega": "FAS",
+    "designacion": "Libre al costado del buque"
+  },
+  {
+    "id_condicion_entrega": "FOB",
+    "designacion": "Libre a bordo"
+  },
+  {
+    "id_condicion_entrega": "CFR",
+    "designacion": "Costo y flete"
+  },
+  {
+    "id_condicion_entrega": "CIF",
+    "designacion": "Costo, seguro y flete"
+  },
+  {
+    "id_condicion_entrega": "CPT",
+    "designacion": "Flete pagado hasta"
+  },
+  {
+    "id_condicion_entrega": "CIP",
+    "designacion": "Flete y seguro pagado hasta"
+  },
+  {
+    "id_condicion_entrega": "DDP",
+    "designacion": "Entregado en destino con derechos pagados"
+  },
+  {
+    "id_condicion_entrega": "DAP",
+    "designacion": "Entregada en lugar"
+  },
+  {
+    "id_condicion_entrega": "DAT",
+    "designacion": "Entregada en terminal"
+  },
+  {
+    "id_condicion_entrega": "ZZZ",
+    "designacion": "Otros"
+  }
+]
