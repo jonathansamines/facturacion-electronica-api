@@ -6,7 +6,8 @@
     "tipo_valor": "PORCENTAJE",
     "valor": 12,
     "id_impuesto": 1,
-    "id_moneda": "GTQ"
+    "id_moneda": "GTQ",
+    "exportacion": false
   },
   {
     "id_unidad_gravable": 2,
@@ -15,7 +16,8 @@
     "tipo_valor": "PORCENTAJE",
     "valor": 0,
     "id_impuesto": 1,
-    "id_moneda": "GTQ"
+    "id_moneda": "GTQ",
+    "exportacion": true
   },
   {
     "id_unidad_gravable": 1,
@@ -24,7 +26,8 @@
     "tipo_valor": "FIJO",
     "valor": 4.70,
     "id_impuesto": 2,
-    "id_moneda": "GTQ"
+    "id_moneda": "GTQ",
+    "exportacion": true
   },
   {
     "id_unidad_gravable": 2,
@@ -33,7 +36,8 @@
     "tipo_valor": "FIJO",
     "valor": 4.60,
     "id_impuesto": 2,
-    "id_moneda": "GTQ"
+    "id_moneda": "GTQ",
+    "exportacion": true
   },
   {
     "id_unidad_gravable": 3,
@@ -42,7 +46,8 @@
     "tipo_valor": "FIJO",
     "valor": 4.70,
     "id_impuesto": 2,
-    "id_moneda": "GTQ"
+    "id_moneda": "GTQ",
+    "exportacion": true
   },
   {
     "id_unidad_gravable": 4,
@@ -51,7 +56,8 @@
     "tipo_valor": "FIJO",
     "valor": 1.30,
     "id_impuesto": 2,
-    "id_moneda": "GTQ"
+    "id_moneda": "GTQ",
+    "exportacion": true
   },
   {
     "id_unidad_gravable": 5,
@@ -60,7 +66,8 @@
     "tipo_valor": "FIJO",
     "valor": 1.30,
     "id_impuesto": 2,
-    "id_moneda": "GTQ"
+    "id_moneda": "GTQ",
+    "exportacion": true
   },
   {
     "id_unidad_gravable": 6,
@@ -69,7 +76,8 @@
     "tipo_valor": "FIJO",
     "valor": 0.50,
     "id_impuesto": 2,
-    "id_moneda": "GTQ"
+    "id_moneda": "GTQ",
+    "exportacion": true
   },
   {
     "id_unidad_gravable": 7,
@@ -78,7 +86,8 @@
     "tipo_valor": "FIJO",
     "valor": 0.50,
     "id_impuesto": 2,
-    "id_moneda": "GTQ"
+    "id_moneda": "GTQ",
+    "exportacion": true
   },
   {
     "id_unidad_gravable": 8,
@@ -87,7 +96,8 @@
     "tipo_valor": "FIJO",
     "valor": 0,
     "id_impuesto": 2,
-    "id_moneda": "GTQ"
+    "id_moneda": "GTQ",
+    "exportacion": true
   },
   {
     "id_unidad_gravable": 9,
@@ -96,7 +106,8 @@
     "tipo_valor": "FIJO",
     "valor": 0.50,
     "id_impuesto": 2,
-    "id_moneda": "GTQ"
+    "id_moneda": "GTQ",
+    "exportacion": true
   },
   {
     "id_unidad_gravable": 10,
@@ -105,7 +116,8 @@
     "tipo_valor": "FIJO",
     "valor": 0.50,
     "id_impuesto": 2,
-    "id_moneda": "GTQ"
+    "id_moneda": "GTQ",
+    "exportacion": true
   },
   {
     "id_unidad_gravable": 11,
@@ -114,7 +126,8 @@
     "tipo_valor": "FIJO",
     "valor": 0,
     "id_impuesto": 2,
-    "id_moneda": "GTQ"
+    "id_moneda": "GTQ",
+    "exportacion": true
   },
   {
     "id_unidad_gravable": 12,
@@ -123,7 +136,8 @@
     "tipo_valor": "FIJO",
     "valor": 0,
     "id_impuesto": 2,
-    "id_moneda": "GTQ"
+    "id_moneda": "GTQ",
+    "exportacion": true
   },
   {
     "id_unidad_gravable": 13,
@@ -132,7 +146,8 @@
     "tipo_valor": "FIJO",
     "valor": 0,
     "id_impuesto": 2,
-    "id_moneda": "GTQ"
+    "id_moneda": "GTQ",
+    "exportacion": true
   },
   {
     "id_unidad_gravable": 1,
@@ -141,7 +156,8 @@
     "tipo_valor": "PORCENTAJE",
     "valor": 10,
     "id_impuesto": 3,
-    "id_moneda": "GTQ"
+    "id_moneda": "GTQ",
+    "exportacion": true
   },
   {
     "id_unidad_gravable": 1,
@@ -150,7 +166,8 @@
     "tipo_valor": "FIJO",
     "valor": 30,
     "id_impuesto": 4,
-    "id_moneda": "USD"
+    "id_moneda": "USD",
+    "exportacion": true
   },
   {
     "id_unidad_gravable": 2,
@@ -159,7 +176,8 @@
     "tipo_valor": "FIJO",
     "valor": 10,
     "id_impuesto": 4,
-    "id_moneda": "USD"
+    "id_moneda": "USD",
+    "exportacion": true
   },
   {
     "id_unidad_gravable": 1,
@@ -168,7 +186,8 @@
     "tipo_valor": "PORCENTAJE",
     "valor": 0.50,
     "id_impuesto": 5,
-    "id_moneda": "GTQ"
+    "id_moneda": "GTQ",
+    "exportacion": false
   },
   {
     "id_unidad_gravable": 1,
@@ -177,6 +196,7 @@
     "tipo_valor": "PORCENTAJE",
     "valor": 2,
     "id_impuesto": 6,
-    "id_moneda": "GTQ"
+    "id_moneda": "GTQ",
+    "exportacion": false
   }
 ]
