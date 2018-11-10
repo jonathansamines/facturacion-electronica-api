@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
-	xmlns:dte="http://www.sat.gob.gt/dte/fel/0.1.0" xmlns:ds="http://www.w3.org/2000/09/xmldsig#"
-	targetNamespace="http://www.sat.gob.gt/dte/fel/0.1.0" elementFormDefault="qualified"
+	xmlns:dte="http://www.sat.gob.gt/dte/fel/0.1.0"
+    xmlns:ds="http://www.w3.org/2000/09/xmldsig#"
+    xmlns:cfc="http://www.sat.gob.gt/dte/fel/CompCambiaria/0.1.0"
+    xmlns:cex="http://www.sat.gob.gt/face2/ComplementoExportaciones/0.1.0"
+    xmlns:cfe="http://www.sat.gob.gt/face2/ComplementoFacturaEspecial/0.1.0"
+    xmlns:cno="http://www.sat.gob.gt/face2/ComplementoReferenciaNota/0.1.0"
+	targetNamespace="http://www.sat.gob.gt/dte/fel/0.1.0"
+    elementFormDefault="qualified"
 	version="0.1">
 	<xs:import namespace="http://www.w3.org/2000/09/xmldsig#"
 		schemaLocation="./lib/services/certificador/esquemas/xmldsig-core-schema.xsd.xml"/>
+    <xs:import namespace="http://www.sat.gob.gt/face2/ComplementoExportaciones/0.1.0"
+		schemaLocation="./lib/services/certificador/esquemas/GT_Complemento_Exportaciones-0.1.0.xsd.xml"/>
+    <xs:import namespace="http://www.sat.gob.gt/dte/fel/CompCambiaria/0.1.0"
+		schemaLocation="./lib/services/certificador/esquemas/GT_Complemento_Cambiaria-0.1.0.xsd.xml"/>
+    <xs:import namespace="http://www.sat.gob.gt/face2/ComplementoFacturaEspecial/0.1.0"
+		schemaLocation="./lib/services/certificador/esquemas/GT_Complemento_Fac_Especial-0.1.0.xsd.xml"/>
+    <xs:import namespace="http://www.sat.gob.gt/face2/ComplementoReferenciaNota/0.1.0"
+		schemaLocation="./lib/services/certificador/esquemas/GT_Complemento_Referencia_Nota-0.1.0.xsd.xml"/>
 	<xs:element name="GTDocumento">
 		<xs:annotation>
 			<xs:documentation>Definición Global de Documento Electrónico para Guatemala.</xs:documentation>
