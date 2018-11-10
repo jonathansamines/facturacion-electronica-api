@@ -1,5 +1,7 @@
 'use strict';
 
+
+const Path = require('path');
 const Dotenv = require('dotenv');
 const Confidence = require('confidence');
 const Toys = require('toys');
@@ -17,6 +19,11 @@ module.exports = new Confidence.Store({
             development: {
                 log: ['error', 'implementation', 'internal'],
                 request: ['error', 'implementation', 'internal']
+            }
+        },
+        routes: {
+            files: {
+                relativeTo: Path.resolve(__dirname, './../__documentos')
             }
         }
     },

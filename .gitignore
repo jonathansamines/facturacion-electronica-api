@@ -74,3 +74,6 @@ typings/
 
 # Excluir certificados
 *.crt
+
+# Excluir documentos
+__documentos
