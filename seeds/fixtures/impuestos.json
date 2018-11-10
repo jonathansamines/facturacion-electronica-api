@@ -5,7 +5,12 @@
     "nombre_corto": "IVA",
     "sigla": "IVA",
     "sumar_total_dte": false,
-    "mostrar_receptor": true
+    "mostrar_receptor": true,
+    "incluir_monto_gravable": true,
+    "incluir_codigo_unidad_gravable": true,
+    "incluir_cantidad_unidades_gravables": false,
+    "incluir_monto_impuesto": true,
+    "base_legal": "Decreto 27-92 y sus reformas"
   },
   {
     "id_impuesto": 2,
@@ -13,7 +18,12 @@
     "nombre_corto": "Petroleo",
     "sigla": "IDP",
     "sumar_total_dte": true,
-    "mostrar_receptor": true
+    "mostrar_receptor": true,
+    "incluir_monto_gravable": false,
+    "incluir_codigo_unidad_gravable": true,
+    "incluir_cantidad_unidades_gravables": true,
+    "incluir_monto_impuesto": true,
+    "base_legal": "Decreto 38-92 y sus reformas"
   },
   {
     "id_impuesto": 3,
@@ -21,7 +31,12 @@
     "nombre_corto": "Turismo Hospedaje",
     "sigla": "ITH",
     "sumar_total_dte": true,
-    "mostrar_receptor": true
+    "mostrar_receptor": true,
+    "incluir_monto_gravable": true,
+    "incluir_codigo_unidad_gravable": true,
+    "incluir_cantidad_unidades_gravables": false,
+    "incluir_monto_impuesto": true,
+    "base_legal": "Decreto 1701 y sus reformas"
   },
   {
     "id_impuesto": 4,
@@ -29,7 +44,12 @@
     "nombre_corto": "Impuesto al Turismo",
     "sigla": "ITP",
     "sumar_total_dte": true,
-    "mostrar_receptor": true
+    "mostrar_receptor": true,
+    "incluir_monto_gravable": false,
+    "incluir_codigo_unidad_gravable": true,
+    "incluir_cantidad_unidades_gravables": true,
+    "incluir_monto_impuesto": true,
+    "base_legal": "Decreto 1701 y sus reformas"
   },
   {
     "id_impuesto": 5,
@@ -37,7 +57,12 @@
     "nombre_corto": "Timbre de Prensa",
     "sigla": "TDP",
     "sumar_total_dte": true,
-    "mostrar_receptor": true
+    "mostrar_receptor": true,
+    "incluir_monto_gravable": true,
+    "incluir_codigo_unidad_gravable": true,
+    "incluir_cantidad_unidades_gravables": false,
+    "incluir_monto_impuesto": true,
+    "base_legal": "Decreto 56-90 y sus reformas"
   },
   {
     "id_impuesto": 6,
@@ -45,7 +70,12 @@
     "nombre_corto": "Bomberos",
     "sigla": "IFB",
     "sumar_total_dte": true,
-    "mostrar_receptor": true
+    "mostrar_receptor": true,
+    "incluir_monto_gravable": true,
+    "incluir_codigo_unidad_gravable": true,
+    "incluir_cantidad_unidades_gravables": false,
+    "incluir_monto_impuesto": true,
+    "base_legal": "Decreto 1422 y sus reformas"
   },
   {
     "id_impuesto": 7,
@@ -53,6 +83,10 @@
     "nombre_corto": "Tasa Municipal",
     "sigla": "MUN",
     "sumar_total_dte": true,
-    "mostrar_receptor": true
+    "mostrar_receptor": true,
+    "incluir_monto_gravable": false,
+    "incluir_codigo_unidad_gravable": true,
+    "incluir_cantidad_unidades_gravables": false,
+    "incluir_monto_impuesto": true
   }
 ]
